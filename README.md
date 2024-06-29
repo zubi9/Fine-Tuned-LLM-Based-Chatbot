@@ -1,5 +1,5 @@
 
-# LLM Operation System
+# LLM Operation
 
 LLM Operation System is a comprehensive platform designed for leveraging Large Language Models (LLMs) for various natural language processing tasks. This README provides an overview of the key components and functionalities of the system.
 
