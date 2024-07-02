@@ -1,11 +1,11 @@
 
-# LLM Operations
+# Fine-Tuned LLM-Based Chatbot
 
-LLM Operation System is a comprehensive platform designed for leveraging Large Language Models (LLMs) for various natural language processing tasks. This README provides an overview of the key components and functionalities of the system.
+Vertex AI Studio is a comprehensive platform designed for leveraging Large Language Models (LLMs) for various natural language processing tasks. This repository consist of a chatbot using fined tuned large language model known as PaLM 2.
 
 ## Features
 
-1. **Data Acquisition and Preprocessing**: Utilize Google's open-source dataset of Stack Overflow Q&A data. Preprocess the data using BigQuery to handle large datasets efficiently.
+1. **Data Acquisition and Preprocessing**: Utilize Google's open-source dataset of Stack Overflow python Q&A data. Preprocess the data using BigQuery to handle large datasets efficiently.
 
 2. **Model Fine-Tuning**: Fine-tune the Palm 2.0 model with the preprocessed Stack Overflow data. This step enhances the model's ability to understand and generate contextually relevant responses to user queries.
 
